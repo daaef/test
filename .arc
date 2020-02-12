@@ -5,6 +5,7 @@ sunny-v33
 
 @http
 get /api
+get /
 
 @tables
 data
